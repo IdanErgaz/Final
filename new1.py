@@ -6,3 +6,7 @@ print("Another way!!!!!!")#####################
 print("#############################################")
 print("your name is:{} and you are {} years old".format(name, age))
 print("adding a NEW text - check auto test run after commit !!!!!")
+
+
+
+print("my NEW name is IDAN :)")
