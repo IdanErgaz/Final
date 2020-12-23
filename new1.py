@@ -9,4 +9,3 @@ print("adding a NEW text - check auto test run after commit !!!!!")
 
 
 
-print("my NEW name is IDAN :)")
